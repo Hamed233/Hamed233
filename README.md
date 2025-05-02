@@ -62,7 +62,8 @@ Passionate Full Stack Developer with expertise in both mobile and web developmen
 ### 🛠️ Developer Tools
 - 🔧 **API Integration Hub** - Centralized API management and integration platform
 - 🚀 **Deployment Automation** - CI/CD pipeline automation tools
-- 📝 **Code Generator** - Custom code generation tools for rapid development- 💬 **Chat Application** - Real-time messaging app using Flutter and Firebase
+- 📝 **Code Generator** - Custom code generation tools for rapid development
+- 💬 **Chat Application** - Real-time messaging app using Flutter and Firebase
 - 🎮 **Gaming Platform** - Social gaming platform with Flutter and PHP backend
 
 ### 🌐 Web Applications
