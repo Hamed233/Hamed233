@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Hamed Esam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=435&lines=Sr. Full+Stack+Developer;Sr. Flutter+Developer;Laravel+Expert;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=435&lines=Sr+.+Full+Stack+Developer;Sr+.+Flutter+Developer;Laravel+Expert;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
