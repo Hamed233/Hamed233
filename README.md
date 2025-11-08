@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Researcher** with extensive expertise in mobile, web, and cloud technologies. I specialize in building secure, scalable applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms. My cybersecurity focus encompasses vulnerability assessment, penetration testing, security architecture design, malware analysis, incident response, security monitoring, code review, compliance assessment, risk management, digital forensics, threat hunting, and security incident management.
+Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Researcher** with extensive expertise in mobile, web, and cloud technologies. I specialize in building secure, scalable applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms. 
 
 ---
 
