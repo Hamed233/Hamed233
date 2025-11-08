@@ -6,13 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Researcher** with extensive expertise in mobile, web, and cloud technologies. I specialize in building secure, scalable applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms.
-
-### 🔐 Cybersecurity Focus
-- 🛡️ **Security Research**: Vulnerability assessment, penetration testing, and security architecture design
-- 🔍 **Threat Analysis**: Malware analysis, incident response, and security monitoring
-- 📊 **Security Auditing**: Code review, compliance assessment, and risk management
-- 🚨 **Incident Response**: Digital forensics, threat hunting, and security incident management
+Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Researcher** with extensive expertise in mobile, web, and cloud technologies. I specialize in building secure, scalable applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms. My cybersecurity focus encompasses vulnerability assessment, penetration testing, security architecture design, malware analysis, incident response, security monitoring, code review, compliance assessment, risk management, digital forensics, threat hunting, and security incident management.
 
 ---
 
@@ -27,12 +21,9 @@ Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Rese
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
@@ -49,7 +40,6 @@ Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Rese
 ### 🎨 Frontend Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -99,41 +89,6 @@ Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Rese
 
 ---
 
-## 🏆 Top Contributor Projects
-
-### 🌟 Major Open Source Contributions
-
-#### **Laravel Framework Ecosystem**
-- 🔧 **Laravel/Framework** - Core framework improvements and security patches
-- 📦 **Laravel/Sanctum** - API authentication enhancements
-- 🛡️ **Laravel/Fortify** - Authentication scaffolding improvements
-
-#### **Flutter Community Projects**
-- 📱 **Flutter/Flutter** - Widget optimizations and performance improvements
-- 🔌 **Flutter/Plugins** - Native plugin development and maintenance
-- 🎨 **Flutter Community Plus** - Community plugin contributions
-
-#### **Go Language Projects**
-- 🚀 **Gin-Gonic/Gin** - HTTP web framework contributions
-- 📊 **Prometheus/Prometheus** - Monitoring system enhancements
-- 🔐 **HashiCorp/Vault** - Security and authentication improvements
-
-#### **Node.js Ecosystem**
-- ⚡ **Express.js** - Middleware and security enhancements
-- 📦 **NPM Packages** - Various utility and security packages
-- 🔒 **Helmet.js** - Security middleware contributions
-
-#### **Cybersecurity Tools**
-- 🛡️ **OWASP Projects** - Security testing tools and documentation
-- 🔍 **Security Scanner Tools** - Vulnerability assessment utilities
-- 📋 **Security Frameworks** - Compliance and audit tools
-
-#### **Cloud & DevOps**
-- ☁️ **Terraform Providers** - AWS and cloud infrastructure modules
-- 🐳 **Docker Official Images** - Container optimization and security
-- 🔄 **GitHub Actions** - CI/CD workflow templates and actions
-
----
 
 ## 🎯 Featured Projects
 
@@ -187,27 +142,6 @@ Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Rese
 
 ---
 
-## 🏅 Achievements & Certifications
-
-### 🔐 Cybersecurity Certifications
-- 🎖️ **Certified Ethical Hacker (CEH)**
-- 🛡️ **CompTIA Security+**
-- 🔒 **AWS Certified Security - Specialty**
-- 📋 **ISO 27001 Lead Auditor**
-
-### ☁️ Cloud Certifications
-- ⚡ **AWS Solutions Architect - Professional**
-- 🚀 **AWS DevOps Engineer - Professional**
-- 📊 **Google Cloud Professional Cloud Architect**
-- 🔧 **Kubernetes Certified Administrator (CKA)**
-
-### 🏆 Recognition & Awards
-- 🌟 **Top Contributor** - Laravel Community (2023-2024)
-- 🥇 **Security Researcher of the Year** - Bug Bounty Programs
-- 🏅 **Open Source Champion** - Flutter Community
-- 🎯 **Innovation Award** - Cybersecurity Conference 2024
-
----
 
 ## 📈 Contribution Graph
 
@@ -222,9 +156,9 @@ Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Rese
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hamedesam_dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamedesam)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-esam-95a388178/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@albashmoparmeg.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://hamedesam.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://hamedesam.info)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hamedesam)
 
 </div>
@@ -235,13 +169,6 @@ Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Rese
   <img src="https://komarev.com/ghpvc/?username=Hamed233&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </div>
 
-<div align="center">
-  
-### 💼 Available for Freelance Projects & Security Consultations
-### 🔐 Cybersecurity Research & Penetration Testing
-### 🚀 Enterprise Solutions & Cloud Architecture
-
-</div>
 
 ---
 
