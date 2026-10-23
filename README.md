@@ -1,177 +1,109 @@
-# Hi there 👋, I'm Hamed Esam
+# Hi, I'm Hamed Esam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=600&lines=Sr+Full+Stack+Developer;Cybersecurity+Enthusiast+%26+Researcher;Flutter+%26+Mobile+Expert;Laravel+%26+Backend+Specialist;Cloud+%26+DevOps+Engineer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3F97F7&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;Laravel+%7C+Go+%7C+Python+%7C+Flutter;AWS+%7C+Azure+DevOps+%7C+Docker;Based+in+Orlando%2C+FL" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+<div align="center">
 
-Passionate **Senior Full Stack Developer** and **Cybersecurity Enthusiast & Researcher** with extensive expertise in mobile, web, and cloud technologies. I specialize in building secure, scalable applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms. 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-esam)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamed.aly.us@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hamedesam.info)
+
+</div>
+
+## About Me
+
+Senior Full Stack Developer with **5+ years** of experience building web platforms, REST APIs, and cross-platform mobile apps that businesses run on every day.
+
+I work across the full stack: **PHP/Laravel, Go, and Python** on the back end, **JavaScript and Vue.js** on the web, **Flutter and Dart** on mobile, and **AWS, Azure DevOps, and Docker** for CI/CD and cloud deployment. I care about clean architecture, database performance, security, and code the next developer can easily maintain.
+
+- 📍 Based in **Orlando, FL**, U.S. Permanent Resident (no sponsorship required)
+- 💼 Open to full-time and contract roles: remote, hybrid, or on-site
+- 🎓 B.Sc. in Artificial Intelligence Engineering, Mansoura University
 
 ---
 
-## 🛠️ Technical Arsenal
+## Highlights
 
-### 🌐 Programming Languages
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- Built an **enterprise task and project management system** (Laravel, MySQL) that increased operational efficiency by **30%**
+- Delivered **high-traffic websites for Saudi government agencies** under strict security and compliance requirements
+- Built complete **multi-app platforms**: customer, restaurant/vendor, and driver apps for iOS and Android, plus admin dashboards, for restaurant delivery and e-commerce businesses
+- Designed **Azure DevOps CI/CD pipelines** deploying to AWS EC2 and RDS, with separate dev, staging, and production environments
+
+---
+
+## Featured Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Restaurant Ordering & Delivery Platform** | Customer, restaurant, and driver apps on the App Store and Google Play, with admin and restaurant dashboards | Flutter, Laravel, MySQL |
+| **Wholesale E-commerce Platform** | Customer, vendor, and delivery-driver apps with admin and vendor dashboards | Flutter, Laravel, MySQL |
+| **[QRMenus.me](https://qrmenus.me)** | SaaS that lets restaurants publish and update QR-code menus instantly, with multi-language support | Laravel, PHP, REST APIs |
+| **Enterprise Task & Sales Management** | Internal platforms for task, project, and sales-team management with dashboards and RBAC | Laravel, PHP, MySQL |
+| **[Awesome-Flutter-Packages](https://github.com/Hamed233/Awesome-Flutter-Packages)** | Open-source, categorized catalog of production-ready Flutter packages | Open source |
+
+---
+
+## Tech Stack
+
+**Languages**<br>
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 📱 Mobile Development
+**Back End**<br>
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+**Front End & Mobile**<br>
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-### 🌐 Backend & Web Development
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-### 🎨 Frontend Technologies
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### ☁️ Cloud & AWS Services
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/-AWS_RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
-![AWS CloudWatch](https://img.shields.io/badge/-AWS_CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
-![AWS API Gateway](https://img.shields.io/badge/-AWS_API_Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**Databases**<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 
-### 🔧 DevOps & Tools
+**Cloud & DevOps**<br>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-
-### 🔐 Cybersecurity Tools
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-
-### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
+## Certifications
 
-## 🎯 Featured Projects
-
-### 🔐 Cybersecurity Solutions
-- 🛡️ **Enterprise Security Platform** - Comprehensive security monitoring and incident response system using Go and AWS
-- 🔍 **Vulnerability Scanner** - Automated security assessment tool built with Rust and TypeScript
-- 📊 **Security Analytics Dashboard** - Real-time threat intelligence platform using Node.js and React
-- 🚨 **Incident Response Automation** - Automated security incident handling system
-
-### 🏢 Enterprise Solutions
-- 💼 **Multi-Cloud ERP System** - Scalable ERP with microservices architecture using Go, Node.js, and AWS
-- 👥 **Advanced CRM Platform** - AI-powered customer relationship management using Laravel and Vue.js
-- 🤖 **Process Automation Suite** - RPA system with security-first approach using Python and Rust
-
-### 🛍️ E-Commerce & Fintech
-- 🏪 **Secure Multi-vendor Marketplace** - High-security e-commerce platform with fraud detection
-- 💳 **Payment Processing System** - PCI-compliant payment gateway using Go and AWS Lambda
-- 📱 **Cryptocurrency Trading App** - Secure trading platform built with Flutter and blockchain integration
-
-### 📱 Mobile Applications
-- 💬 **Encrypted Communication Suite** - End-to-end encrypted messaging app using Flutter and custom protocols
-- 📊 **Security Monitoring Mobile App** - Real-time security dashboard for mobile devices
-- 🎯 **Secure Project Management** - Enterprise-grade task management with advanced security features
-
-### 🌐 Web Applications & APIs
-- 🚀 **High-Performance API Gateway** - Scalable API management system using Go and Kubernetes
-- 📈 **Real-time Analytics Platform** - Big data processing system using Node.js and AWS services
-- 🔧 **Developer Security Tools** - Security-focused development utilities and CI/CD integrations
-
-### ☁️ Cloud & Infrastructure
-- 🏗️ **Multi-Cloud Infrastructure** - Terraform-managed infrastructure across AWS, GCP, and Azure
-- 🔄 **CI/CD Security Pipeline** - Automated security testing and deployment using GitHub Actions
-- 📦 **Container Security Platform** - Docker and Kubernetes security monitoring system
+- IBM Full Stack Software Developer Professional Certificate (2026)
+- Meta Back-End Developer Professional Certificate (2026)
+- Certified Agile Leadership, University of Colorado (2026)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamed233&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed233&layout=compact&langs_count=20&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamed233&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed233&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamed233&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamed233&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
----
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamed233&theme=radical" width="100%"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hamedesam_dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-esam-95a388178/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@albashmoparmeg.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://hamedesam.info)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hamedesam)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamed233&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://streak-stats.demolab.com/?user=Hamed233&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
