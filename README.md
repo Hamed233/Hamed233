@@ -33,18 +33,6 @@ I work across the full stack: **PHP/Laravel, Go, and Python** on the back end, *
 
 ---
 
-## Featured Work
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Restaurant Ordering & Delivery Platform** | Customer, restaurant, and driver apps on the App Store and Google Play, with admin and restaurant dashboards | Flutter, Laravel, MySQL |
-| **Wholesale E-commerce Platform** | Customer, vendor, and delivery-driver apps with admin and vendor dashboards | Flutter, Laravel, MySQL |
-| **[QRMenus.me](https://qrmenus.me)** | SaaS that lets restaurants publish and update QR-code menus instantly, with multi-language support | Laravel, PHP, REST APIs |
-| **Enterprise Task & Sales Management** | Internal platforms for task, project, and sales-team management with dashboards and RBAC | Laravel, PHP, MySQL |
-| **[Awesome-Flutter-Packages](https://github.com/Hamed233/Awesome-Flutter-Packages)** | Open-source, categorized catalog of production-ready Flutter packages | Open source |
-
----
-
 ## Tech Stack
 
 **Languages**<br>
